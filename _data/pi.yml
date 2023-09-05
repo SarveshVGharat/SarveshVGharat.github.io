@@ -1,0 +1,22 @@
+- name: Sarvesh Gharat
+  photo: headshot.jpg
+  info: Sarvesh Gharat PhD Scholar, IIT Bombay
+  email: sarveshgharat19@gmail.com
+  github: https://github.com/SarveshVGharat
+  researchgate: https://www.researchgate.net/profile/Sarvesh-Gharat
+  scholar: https://scholar.google.com/citations?user=acujBf0AAAAJ&hl=en
+  cv: cv/cv.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 2
+  education1: "Ph.D. Artificial Learning, IIT Bombay"
+  education2: "B.Tech ECE, VIIT Pune"
+  # education3: 
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: Ph.D. AI, IITB
+  education2short: B.Tech ECE VIIT
+  # education3short: 
+  # education4short: 
+  # education5short: 
+  # education6short: 
