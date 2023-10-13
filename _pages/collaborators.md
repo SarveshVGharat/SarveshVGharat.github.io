@@ -42,6 +42,7 @@ iframe {
 
 <h4>Collaborators</h4>
 <ul>
+<li> Prof. Snehanshu Saha (BITS Pilani Goa)
 <li> Prof. Gopal Bhatta (University of Zielona Góra) </li>
 <li> Prof. Chi-Kwan Chan (University of Arizona) </li>
 <li> Prof. Kamlesh Pathak (SVNIT) </li>
