@@ -50,5 +50,12 @@ iframe {
 <li> Dr. Rakesh Mazumder (ARIES Nainital) </li>
 </ul>
 
+<h4>Groups</h4>
+<ul>
+<li> Validation of Transiting Exoplanets using Statistical Tools (VaTEST) </li>
+<li> LOFAR2.0 Ultra Deep Observation (LUDO) </li>
+<li> Artificial Intelligence for Astronomy (AI4Astro) </li>
+</ul>
+
 </div>
 </div>
