@@ -40,6 +40,34 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
 
+<h4><b>Visual-Entities-Empowered-Zero-Shot-Image-to-Text-Generation-Transfer-Across-Domains</b></h4>
+
+Embark on a cutting-edge journey at the intersection of vision and language, where our innovative project seamlessly merges pre-trained Vision-Language Models with real-world knowledge, addressing modality bias and object hallucination challenges while offering adaptability to diverse cross-domain data.
+
+<ul>
+<li>Cross-Domain Vision-Language Understanding:
+Explore the seamless integration of a pre-trained Vision-Language Model (VLM) with real-world knowledge from a Large Language Model (LLM) to generate textual descriptions for images across diverse domains, eliminating the need for fine-tuning on specific image-text pairs.
+</li>
+
+<li>Mitigating Modality Bias: 
+Tackle the challenges associated with modality bias by developing a model that effectively bridges the gap between visual and textual representations, ensuring a more unbiased and accurate portrayal of image content in generated descriptions.
+</li>
+
+<li>Object Hallucination Resilience::
+Address the issue of object hallucination in image descriptions by implementing robust mechanisms that enhance the fidelity of generated textual outputs, promoting a more reliable and contextually accurate understanding of the visual content.
+</li>
+
+<li>Adaptable Image-Text Pairing: 
+Achieve a high degree of adaptability to cross-domain data by designing a solution that does not rely on specific image-text pairs for fine-tuning, allowing the model to generalize effectively across a wide range of visual and textual inputs.
+</li>
+
+<li>Next-Level Vision-Language Synergy: 
+Showcase a project that leverages the strengths of both Vision-Language and Large Language Models to create a synergistic approach, providing a comprehensive understanding of images with rich contextual descriptions, reflecting real-world knowledge without sacrificing </li>
+</ul>
+
+<a href="https://github.com/SarveshVGharat/Visual-Entities-Empowered-Zero-Shot-Image-to-Text-Generation-Transfer-Across-Domains" target="_blank"><button class="btn btn-info">Click here to open the repo</button></a>
+
+
 <h4><b>Decision Optimization in Cricket Gameplay</b></h4>
 
 In the dynamic world of cricket, making the right decisions on each ball can be the difference between victory and defeat. This project was dedicated to enhancing decision-making in cricket gameplay scenarios by leveraging principles from Markov Decision Processes (MDPs). Here's a summary of our key accomplishments:
