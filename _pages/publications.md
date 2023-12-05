@@ -27,11 +27,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 {% bibliography --query @article %}
 </div>
 
-<div class="jumbotron">
-### Extended Abstract
-{% bibliography --query @abstract %}
-</div>
-
 <!--
 <div class="jumbotron">
 ### Refereed conference proceedings
