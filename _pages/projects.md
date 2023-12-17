@@ -90,7 +90,7 @@ The work ultimately led to the optimization of decision-making in cricket. By ap
 </li>
 </ul>
 
-<a href="https://github.com/SarveshVGharat/CS747-Assignment-2" target="_blank"><button class="btn btn-info">Click here to open the repo</button></a>
+<a href="https://github.com/SarveshVGharat/Decision-Optimization-in-Cricket-Gameplay" target="_blank"><button class="btn btn-info">Click here to open the repo</button></a>
 
 <h4><b>Regret Minimization in Multi-Armed Bandit Problems</b></h4>
 
@@ -101,12 +101,8 @@ In the realm of decision-making under uncertainty, multi-armed bandit problems s
 The project confirms the theoretic logarithmic upper bounds on regret for different algorithms including UCB (Upper Confidence Bound), KLUCB (Kullback-Leibler Upper Confidence Bound), and Thompson Sampling. These algorithms formed the backbone of our approach, enabling us to explore various avenues for regret minimization.
 </li>
 
-<li>Python Library: 
-An innovative aspect of the project involved the implementation of Thompson Sampling in a batch setting. This adaptation was aimed at minimizing regret when samples are taken in batches. 
-</li>
-
 <li>Batch Thompson Sampling:
-The provided solution enhances material characterization in fields like optics and electronics by providing accurate refractive index predictions.
+An innovative aspect of the project involved the implementation of Thompson Sampling in a batch setting. This adaptation was aimed at minimizing regret when samples are taken in batches. 
 </li>
 
 <li>Addressing Special Cases: 
@@ -114,7 +110,7 @@ The project addressed a unique scenario in bandit problems where the number of a
 </li>
 </ul>
 
-<a href="https://github.com/SarveshVGharat/CS747-Assignment-1" target="_blank"><button class="btn btn-info">Click here to open the repo</button></a>
+<a href="https://github.com/SarveshVGharat/Regret-Minimization-in-Multi-Armed-Bandit-Problems" target="_blank"><button class="btn btn-info">Click here to open the repo</button></a>
 
 <h4><b>Refractive Index Prediction with Terahertz Time Domain Spectroscopy</b></h4>
 
