@@ -19,5 +19,6 @@ Thank you for visiting my corner of the web. Feel free to explore my academic in
 
 Let's connect and learn together.
 
+Note: Currently closed for any new collaborations
 
 
