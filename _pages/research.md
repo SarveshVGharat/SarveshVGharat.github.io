@@ -35,16 +35,25 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
-<h4>Online Learning</h4>
-In my research, I specialize in Online Learning with a dual focus, exploring two distinct but complementary approaches to solve complex problems:
+In my research, I specialize in Online Learning with a dual focus, mainly exploring the theoretical novelties and:
+
 <ul>
-<li>Multi-Armed Bandits and PAC Settings:
-One facet of my work revolves around Multi-Armed Bandits (MABs) within the Probabilistically Approximately Correct (PAC) framework. I'm dedicated to the development of novel algorithms and the provision of rigorous theoretical guarantees. This area encompasses various challenges, including represented arm identification and the intricacies of linear bandits. My goal is to unlock the potential of MABs for smarter decision-making in dynamic environments.
+<li>Theoretical Novelties in Online Learning:
+My research delves into the foundational aspects of Online Learning. I focus on developing novel algorithms and providing rigorous theoretical guarantees, particularly in the context of multi-armed bandits, statistical learning theory, and cost-aware decision-making processes. Some of the key challenges I address include:
+  - Algorithmic Efficiency: Designing algorithms that balance exploration and exploitation for optimal decision-making in dynamic and uncertain environments.
+  - Theoretical Guarantees: Establishing convergence guarantees and performance bounds to ensure the robustness of these algorithms in various settings, such as fixed-confidence bandits and large-scale model evaluations.
 </li>
-<li>Crowdsourcing Task Allocation and Regret Optimization: The second facet of my research is centered on optimizing task allocation in crowdsourcing while minimizing costs. I strive to provide theoretical guarantees on regret, ensuring efficient resource utilization. This research involves the development of intelligent task allocation algorithms and the analysis of regret to enable data-driven decision-making in crowdsourcing scenarios.
+
+<li>Applications in Generative AI:
+The second aspect of my research focuses on applying these theoretical advancements in the Generative AI space. I aim to optimize the performance and cost-efficiency of Large Language Models (LLMs) for various tasks. Key areas of application include:
+  - Optimal LLM Selection: Developing efficient methods for identifying the best LLM for a given task while minimizing computational costs.
+  - LLM Fine-tuning: Improving task-specific performance by fine-tuning LLMs in a cost-effective manner.
+  - Prompt Optimization: Creating algorithms that help find the most effective prompts to improve the relevance and quality of generated responses by LLMs.
 </li>
 </ul>
-Through these two complementary research thrusts, I bridge theory and practice, advancing our understanding of online learning and revolutionizing the way we optimize crowdsourcing processes. My work addresses a spectrum of real-world challenges, from dynamic decision-making in uncertain environments to resource-efficient task allocation in crowdsourced endeavors. 
+
+Through this dual focus, my research bridges the gap between theory and practice, pushing the boundaries of Online Learning while enabling more effective and resource-efficient solutions in the Generative AI landscape.
+
 
 <h4>Past Works</h4>
 Along with Online Learning, I previously worked in observational astronomy, focusing on the analysis of data from space archives. I mainly used two different approaches to explore various aspects of the universe:
