@@ -38,21 +38,25 @@ iframe {
 In my research, I specialize in Online Learning with a dual focus, mainly exploring the theoretical novelties and:
 
 <ul>
-<li>Theoretical Novelties in Online Learning:
+<li><strong>Theoretical Novelties in Online Learning:</strong>
 My research delves into the foundational aspects of Online Learning. I focus on developing novel algorithms and providing rigorous theoretical guarantees, particularly in the context of multi-armed bandits, statistical learning theory, and cost-aware decision-making processes. Some of the key challenges I address include:
-  - Algorithmic Efficiency: Designing algorithms that balance exploration and exploitation for optimal decision-making in dynamic and uncertain environments.
-  - Theoretical Guarantees: Establishing convergence guarantees and performance bounds to ensure the robustness of these algorithms in various settings, such as fixed-confidence bandits and large-scale model evaluations.
+<ul>
+  <li><strong>Algorithmic Efficiency:</strong> Designing algorithms that balance exploration and exploitation for optimal decision-making in dynamic and uncertain environments.</li>
+  <li><strong>Theoretical Guarantees:</strong> Establishing convergence guarantees and performance bounds to ensure the robustness of these algorithms in various settings, such as fixed-confidence bandits and large-scale model evaluations.</li>
+</ul>
 </li>
 
-<li>Applications in Generative AI:
+<li><strong>Applications in Generative AI:</strong>
 The second aspect of my research focuses on applying these theoretical advancements in the Generative AI space. I aim to optimize the performance and cost-efficiency of Large Language Models (LLMs) for various tasks. Key areas of application include:
-  - Optimal LLM Selection: Developing efficient methods for identifying the best LLM for a given task while minimizing computational costs.
-  - LLM Fine-tuning: Improving task-specific performance by fine-tuning LLMs in a cost-effective manner.
-  - Prompt Optimization: Creating algorithms that help find the most effective prompts to improve the relevance and quality of generated responses by LLMs.
+<ul>
+  <li><strong>Optimal LLM Selection:</strong> Developing methods to identify the most suitable LLM for a given task while minimizing computational and resource costs.</li>
+  <li><strong>LLM Fine-tuning:</strong> Enhancing task-specific performance by fine-tuning LLMs with minimal resource use.</li>
+  <li><strong>Prompt Optimization:</strong> Designing algorithms to discover the most effective prompts, ensuring the relevance and quality of the generated responses from LLMs.</li>
+</ul>
 </li>
 </ul>
 
-Through this dual focus, my research bridges the gap between theory and practice, pushing the boundaries of Online Learning while enabling more effective and resource-efficient solutions in the Generative AI landscape.
+Through this dual focus, my research bridges theory and practice, advancing Online Learning while innovating within the Generative AI landscape.
 
 
 <h4>Past Works</h4>
