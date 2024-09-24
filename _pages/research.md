@@ -35,7 +35,7 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
-In my research, I specialize in Online Learning with a dual focus, mainly exploring the theoretical novelties and:
+In my research, I specialize in Online Learning with a dual focus, mainly exploring the theoretical novelties and practical applications within the Generative AI domain::
 
 <ul>
 <li><strong>Theoretical Novelties in Online Learning:</strong>
