@@ -46,8 +46,7 @@ One facet of my work revolves around Multi-Armed Bandits (MABs) within the Proba
 </ul>
 Through these two complementary research thrusts, I bridge theory and practice, advancing our understanding of online learning and revolutionizing the way we optimize crowdsourcing processes. My work addresses a spectrum of real-world challenges, from dynamic decision-making in uncertain environments to resource-efficient task allocation in crowdsourced endeavors. 
 
-<h2>Past Research</h2>
-<h4>Observational Astronomy</h4>
+<h4>Past Works</h4>
 Along with Online Learning, I previously worked in observational astronomy, focusing on the analysis of data from space archives. I mainly used two different approaches to explore various aspects of the universe:
 <ul>
 <li>Statistical Analysis for Multiwavelength Astronomy:
