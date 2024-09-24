@@ -46,16 +46,18 @@ One facet of my work revolves around Multi-Armed Bandits (MABs) within the Proba
 </ul>
 Through these two complementary research thrusts, I bridge theory and practice, advancing our understanding of online learning and revolutionizing the way we optimize crowdsourcing processes. My work addresses a spectrum of real-world challenges, from dynamic decision-making in uncertain environments to resource-efficient task allocation in crowdsourced endeavors. 
 
+<h2>Past Research</h2>h2>
 <h4>Observational Astronomy</h4>
-Along with Online Learning I also work in observational astronomy. In observational astronomy I mainly focus on the analysis of data from space archives. I mainly use two different approaches to explore various aspects of the universe:
+Along with Online Learning, I previously worked in observational astronomy, focusing on the analysis of data from space archives. I mainly used two different approaches to explore various aspects of the universe:
 <ul>
 <li>Statistical Analysis for Multiwavelength Astronomy:
-One aspect of my work involves delving into multiwavelength data, which encompasses a range of electromagnetic radiation, including X-rays, extending beyond what's visible. I use mathematical techniques to find hidden patterns and gain insights into a wide range of cosmic events and objects. This approach is particularly useful when I'm studying high-energy events and trying to confirm the existence of planets outside our solar system, known as exoplanets.
+One aspect of my work involved delving into multiwavelength data, which encompasses a range of electromagnetic radiation, including X-rays, extending beyond what's visible. I used mathematical techniques to find hidden patterns and gain insights into a wide range of cosmic events and objects. This approach was particularly useful when I studied high-energy events and tried to confirm the existence of planets outside our solar system, known as exoplanets.
 </li>
-<li>Deep Learning with Astronomical Data: In addition to traditional statistical methods, I also employ advanced computer techniques like transformer models and attention mechanisms. These cutting-edge tools help me make sense of complex data from space. With deep learning, I can extract intricate details from diverse datasets, improving our understanding of the physical processes that govern the universe. I apply this approach to delve into high-energy observations, providing deeper insights into phenomena like supernovae, gamma-ray bursts, and active galactic nuclei.
+<li>Deep Learning with Astronomical Data: In addition to traditional statistical methods, I also employed advanced computer techniques like transformer models and attention mechanisms. These cutting-edge tools helped me make sense of complex data from space. With deep learning, I could extract intricate details from diverse datasets, improving our understanding of the physical processes that govern the universe. I applied this approach to delve into high-energy observations, providing deeper insights into phenomena like supernovae, gamma-ray bursts, and active galactic nuclei.
 </li>
 </ul>
-By combining statistical analysis and deep learning, I contribute to our expanding knowledge of the cosmos. I also tackle the challenges presented by the massive and varied datasets that astronomers deal with. 
+By combining statistical analysis and deep learning, I contributed to our expanding knowledge of the cosmos. I also tackled the challenges presented by the massive and varied datasets that astronomers deal with.
+
 
 </div>
 </div>
