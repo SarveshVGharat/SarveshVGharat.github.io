@@ -9,7 +9,7 @@ permalink: /
 
 Hello, I'm Sarvesh Gharat, and I'm currently pursuing my Ph.D. at Centre for Machine Intelligence and Data Science, Indian Institute of Technology Bombay (IIT Bombay). I completed my Bachelor's degree in Technology (B.Tech) in Electronics and Telecommunication Engineering at VIIT Pune, where I cultivated a strong foundation in engineering and science.
 
-My academic journey now revolves around Online Learning, Deep Learning, and Observational Astronomy. In the realm of Online Learning, I specialize in multiarmed bandits particularly in the PAC settings, exploring decision-making strategies. I also venture into Observational Astronomy, where I use deep learning techniques including traditional architectures to transformers, along with statistical analysis to decode complex celestial data.
+My academic journey now revolves around Online Learning and Generative AI. In the realm of Online Learning, I specialize in multiarmed bandits particularly in the PAC settings, exploring decision-making strategies. I also venture into Generative AI, wherein I use online learning techniques to identify optimal LLMs to finetune for a particular task while using the appropriate prompt.
 
 Besides my academic pursuits, I have a passion for probability and enjoy delving into its intricacies. When I'm not immersed in research, you'll often find me on the football or cricket field, enjoying the thrill of these sports.
 
@@ -19,6 +19,6 @@ Thank you for visiting my corner of the web. Feel free to explore my academic in
 
 Let's connect and learn together.
 
-Note: Currently open to collaborate on Kaggle challenges
+Note: Currently closed for any new collaborations
 
 
