@@ -42,6 +42,7 @@ iframe {
 
 <h4>Collaborators</h4>
 <ul>
+<li> Dr. Soumyabrata Pal (Adobe) </li>
 <li> Dr. Milind Tambe (Google Deepmind, Harvard University) </li>
 <li> Dr. Aparna Taneja (Google Deepmind) </li>
 <li> Prof. Snehanshu Saha (BITS Pilani Goa) </li>
