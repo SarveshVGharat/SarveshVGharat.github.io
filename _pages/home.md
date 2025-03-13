@@ -7,7 +7,7 @@ permalink: /
 
 ### Welcome!
 
-Hello, I’m Sarvesh Gharat, and I’m currently pursuing my Ph.D. at the Centre for Machine Intelligence and Data Science, Indian Institute of Technology Bombay (IIT Bombay). I completed my Bachelor’s degree in Technology (B.Tech) in Electronics and Telecommunication Engineering at VIIT Pune, where I cultivated a strong foundation in engineering and science.
+Hello, I’m Sarvesh Gharat, and I’m currently pursuing my Ph.D. at the Centre for Machine Intelligence and Data Science, Indian Institute of Technology Bombay (IIT Bombay). I completed my Bachelor’s degree in Technology (B.Tech) in Electronics and Telecommunication Engineering from VIIT Pune, where I cultivated a strong foundation in engineering and science.
 
 My academic journey now revolves around Online Learning and Generative AI. In the realm of Online Learning, I specialize in Multi-Armed Bandits, particularly in PAC (Probably Approximately Correct) settings, where I explore efficient decision-making strategies under uncertainty. In the space of Generative AI, I leverage online learning techniques to identify optimal Large Language Models (LLMs) to fine-tune for specific tasks, while also designing effective prompting strategies.
 
