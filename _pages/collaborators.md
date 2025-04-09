@@ -30,7 +30,7 @@ iframe {
 }
 </style>
 
-## Collaborators
+## Collaborators and Research Experience
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -58,6 +58,13 @@ iframe {
 <li> Artificial Intelligence for Astronomy (AI4Astro) </li>
 <li> LOFAR2.0 Ultra Deep Observation (LUDO) </li>
 <li> Validation of Transiting Exoplanets using Statistical Tools (VaTEST) </li>
+</ul>
+
+<h4>Research Experience</h4>
+<ul>
+<li> Summer Research Intern at Adobe (May 2025 - July 2025) </li>
+<li> Student Researcher at Google Deepmind (October 2024 - March 2025) </li>
+<li> Project Student at TIFR Mumbai (July 2021 - June 2022) </li>
 </ul>
 
 </div>
