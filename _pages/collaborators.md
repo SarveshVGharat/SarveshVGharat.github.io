@@ -56,9 +56,9 @@ iframe {
 <h4>Groups</h4>
 <ul>
 <li> MAASI Google Deepmind </li>
-<li> Artificial Intelligence for Astronomy (AI4Astro) </li>
-<li> LOFAR2.0 Ultra Deep Observation (LUDO) </li>
-<li> Validation of Transiting Exoplanets using Statistical Tools (VaTEST) </li>
+<li> Artificial Intelligence for Astronomy </li>
+<li> LOFAR2.0 Ultra Deep Observation </li>
+<li> Validation of Transiting Exoplanets using Statistical Tools </li>
 </ul>
 
 
