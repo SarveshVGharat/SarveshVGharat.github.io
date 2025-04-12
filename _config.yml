@@ -27,9 +27,9 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: Publications & Preprints
-  - name: Research Interests
-  - name: Research Projects
+  - name: Publications
+  - name: Research
+  - name: Projects
   - name: Collaborations & Experience
 
 include:
