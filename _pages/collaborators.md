@@ -1,5 +1,5 @@
 ---
-title: "Collaborators and Research Experience"
+title: "Collaborators and Experience"
 layout: gridlay
 sitemap: false
 permalink: /collaborators/
