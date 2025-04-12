@@ -30,7 +30,7 @@ iframe {
 }
 </style>
 
-## Collaborators and Research Experience
+## Collaborators and Experience
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
