@@ -34,7 +34,7 @@ iframe {
 }
 </style>
 
-## Research Projects
+## Projects
 
 <div class="jumbotron">
 <div class="row align-items-end">
