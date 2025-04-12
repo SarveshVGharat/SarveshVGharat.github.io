@@ -1,5 +1,5 @@
 ---
-title: " Research Projects"
+title: "Projects"
 layout: gridlay
 sitemap: false
 permalink: /projects/
