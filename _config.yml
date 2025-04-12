@@ -30,7 +30,7 @@ nav_pages:
   - name: publications
   - name: research
   - name: projects
-  - name: collaborators
+  - name: collaborators and research experience
 
 include:
   - .htaccess
