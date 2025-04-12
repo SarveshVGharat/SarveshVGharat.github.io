@@ -17,7 +17,7 @@ affiliation: >
     IIT Bombay
 
 location: >
-  SIC 401, KRESIT<br/>
+  KR 323, KRESIT<br/>
   IIT Bombay<br/>
   Mumbai 400076
 
@@ -27,10 +27,10 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: publications
-  - name: research
-  - name: projects
-  - name: collaborators
+  - name: Publications & Preprints
+  - name: Research Interests
+  - name: Research Projects
+  - name: Collaborations & Experience
 
 include:
   - .htaccess
