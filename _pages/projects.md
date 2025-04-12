@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: " Research Projects"
 layout: gridlay
 sitemap: false
 permalink: /projects/
@@ -34,7 +34,7 @@ iframe {
 }
 </style>
 
-## Projects
+## Research Projects
 
 <div class="jumbotron">
 <div class="row align-items-end">
