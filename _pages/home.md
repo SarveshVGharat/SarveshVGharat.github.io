@@ -21,5 +21,6 @@ Thank you for visiting my corner of the web! Feel free to explore my academic in
 
 Let’s connect and learn together!
 
+Note: Seeking a Summer 2026 Research Internship in Bandits, Reinforcement Learning, and LLM Reasoning
 
 
