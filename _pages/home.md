@@ -7,17 +7,15 @@ permalink: /
 
 ### Welcome!
 
-Hello, I’m **Sarvesh Gharat**, a Ph.D. student at the *Centre for Machine Intelligence and Data Science (CMInDS), IIT Bombay*. My research lies at the intersection of **online learning theory and generative AI**, with a focus on how intelligent systems learn and make decisions efficiently under uncertainty.
+Hello, I’m **Sarvesh Gharat**, a Ph.D. student at the Centre for Machine Intelligence and Data Science (CMInDS), Indian Institute of Technology Bombay (IIT Bombay). I completed my Bachelor’s degree in Electronics and Telecommunication Engineering from VIIT Pune, where I built a strong foundation in engineering and applied mathematics.
 
-I work primarily on **multi-armed bandits, reinforcement learning, and inference-time algorithms for large language models (LLMs)**. A central theme of my research is cost-aware and data-efficient decision-making — for example, identifying the best LLM for a task or improving model reasoning under practical constraints such as limited compute, feedback, or supervision. This perspective connects learning theory with real-world deployment challenges in modern AI systems.
+My research lies at the intersection of **online learning and generative AI**. In online learning, I focus on **multi-armed bandits and PAC decision-making**, studying how to make reliable decisions under uncertainty. In generative AI, I apply these principles to **large language models (LLMs)** — developing methods to identify the best models for a task and to improve reasoning through efficient prompting and inference-time strategies.
 
-More recently, I have developed a growing interest in **LLM alignment and multi-agent systems**. I am particularly interested in how artificial agents interact, cooperate, and compete in complex environments, and how alignment strategies can make these systems more reliable, robust, and aligned with human goals. These directions bridge online learning, reinforcement learning, and large-scale AI systems.
+More recently, I’ve developed a growing interest in **LLM alignment and multi-agent systems**. I’m particularly interested in how artificial agents interact, cooperate, and compete in complex environments, and how alignment techniques can make these systems more robust, reliable, and aligned with human goals. These directions bridge learning theory, reinforcement learning, and real-world AI deployment.
 
-I have had the privilege of working with outstanding mentors and collaborators across academia and industry, including internships at **Google DeepMind** and **Adobe Research**. At DeepMind, I worked on AI for social impact, studying the effectiveness of AI-driven interventions in public health programs. At Adobe Research, I focused on inference-time techniques to improve LLM reasoning under fixed compute constraints, including adaptive example selection and sequential test-time scaling.
+I’ve been fortunate to work with inspiring mentors and collaborators, including internships at **Google DeepMind** and **Adobe Research**, which have shaped my perspective on both theoretical and applied AI research.
 
-My work has appeared in venues such as **ICASSP, MNRAS, and AAMAS**, and I actively contribute to the research community through reviewing and collaborations across machine learning and AI for science.
+Outside of academia, I enjoy probability theory for the elegance it brings to understanding uncertainty. I’m also passionate about sports — especially football and cricket — which I value for the teamwork, strategy, and competitive spirit they foster.
 
-Outside of research, I enjoy probability theory for the elegance it brings to modeling uncertainty. I am also passionate about sports — particularly football and cricket — which I value for the teamwork, strategy, and competitive spirit they foster.
-
-I’m always happy to connect with researchers and practitioners interested in online learning, LLMs, and AI systems.  
-**Feel free to reach out!**
+I’m grateful for the opportunities and guidance that have shaped my journey so far, and I’m excited to continue exploring new directions in AI research.  
+Thank you for visiting my corner of the web — feel free to connect if you share similar interests!
