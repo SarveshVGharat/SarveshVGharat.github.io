@@ -56,12 +56,12 @@ iframe {
 <li> Dr. Rakesh Mazumder (ARIES Nainital) </li>
 </ul>
 
-<h4>Groups</h4>
+<h4>Experiences</h4>
 <ul>
-<li> MAASI Google Deepmind </li>
-<li> Artificial Intelligence for Astronomy </li>
-<li> LOFAR2.0 Ultra Deep Observation </li>
-<li> Validation of Transiting Exoplanets using Statistical Tools </li>
+<li> Incoming Visiting Researcher at MBZUAI </li>
+<li> Research Intern at Adobe Research </li>
+<li> Student Researcher at Google DeepMind </li>
+<li> Research Assistant at TIFR Mumbai </li>
 </ul>
 
 
