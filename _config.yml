@@ -29,8 +29,9 @@ contact: >
 nav_pages:
   - name: publications
   - name: research
-  - name: projects
   - name: collaborators
+  - name: contact
+    title: Contact Me
 
 include:
   - .htaccess
