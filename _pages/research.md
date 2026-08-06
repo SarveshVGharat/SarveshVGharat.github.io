@@ -35,28 +35,38 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
-In my research, I specialize in Online Learning with a dual focus, mainly exploring the theoretical novelties and practical applications within the Generative AI domain::
+My research spans three complementary directions: developing the theoretical foundations of Online Learning, applying these ideas to problems in Generative AI, and building reliable AI Scientist systems for scientific discovery.
 
 <ul>
-<li><strong>Theoretical Novelties in Online Learning:</strong>
-My research delves into the foundational aspects of Online Learning. I focus on developing novel algorithms and providing rigorous theoretical guarantees, particularly in the context of multi-armed bandits, statistical learning theory, and cost-aware decision-making processes. Some of the key challenges I address include:
+<li><strong>Theoretical Foundations of Online Learning:</strong>
+My research investigates the foundations of sequential decision-making under uncertainty. I focus on developing algorithms with rigorous theoretical guarantees, particularly for multi-armed bandits, PAC decision-making, and cost-aware learning. Some of the key challenges I address include:
 <ul>
-  <li><strong>Algorithmic Efficiency:</strong> Designing algorithms that balance exploration and exploitation for optimal decision-making in dynamic and uncertain environments.</li>
-  <li><strong>Theoretical Guarantees:</strong> Establishing convergence guarantees and performance bounds to ensure the robustness of these algorithms in various settings, such as fixed-confidence bandits and large-scale model evaluations.</li>
+  <li><strong>Algorithmic Efficiency:</strong> Designing algorithms that effectively balance exploration and exploitation in uncertain and dynamic environments.</li>
+  <li><strong>Theoretical Guarantees:</strong> Establishing performance bounds and correctness guarantees for problems such as fixed-confidence identification and decision-making with costly or limited feedback.</li>
 </ul>
 </li>
 
 <li><strong>Applications in Generative AI:</strong>
-The second aspect of my research focuses on applying these theoretical advancements in the Generative AI space. I aim to optimize the performance and cost-efficiency of Large Language Models (LLMs) for various tasks. Key areas of application include:
+I apply ideas from Online Learning to improve the performance and cost-efficiency of Large Language Models (LLMs). My main areas of interest include:
 <ul>
-  <li><strong>Optimal LLM Selection:</strong> Developing methods to identify the most suitable LLM for a given task while minimizing computational and resource costs.</li>
-  <li><strong>LLM Fine-tuning:</strong> Enhancing task-specific performance by fine-tuning LLMs with minimal resource use.</li>
-  <li><strong>Prompt Optimization:</strong> Designing algorithms to discover the most effective prompts, ensuring the relevance and quality of the generated responses from LLMs.</li>
+  <li><strong>Optimal LLM Selection:</strong> Developing methods to identify the most suitable LLM for a given task while minimizing computational and monetary costs.</li>
+  <li><strong>Adaptive Reasoning:</strong> Designing inference-time strategies that dynamically allocate computation and improve the reasoning capabilities of LLMs.</li>
+  <li><strong>Prompt Optimization:</strong> Developing algorithms to identify effective prompts and demonstrations for improving the quality and reliability of generated responses.</li>
+</ul>
+</li>
+
+<li><strong>AI Scientists:</strong>
+I am also interested in developing AI systems that can assist with and automate different stages of scientific research. My current interests in this direction include:
+<ul>
+  <li><strong>Literature-Grounded Discovery:</strong> Building systems that generate research ideas and hypotheses grounded in existing scientific literature, while identifying meaningful gaps and avoiding unsupported claims.</li>
+  <li><strong>Sequential Decision-Making:</strong> Formulating scientific discovery as a sequential learning problem in which an AI system adaptively selects experiments, evaluates evidence, and refines its hypotheses.</li>
+  <li><strong>Interpretable Scientific Reasoning:</strong> Developing methods that make the reasoning, evidence, and decisions of AI Scientists transparent and understandable to human researchers.</li>
 </ul>
 </li>
 </ul>
 
-Through this dual focus, my research bridges theory and practice, advancing Online Learning while innovating within the Generative AI landscape.
+Together, these directions connect the theoretical foundations of Online Learning with practical challenges in Generative AI and the emerging development of reliable AI systems for scientific discovery.
+
 
 
 <h4>Past Works</h4>
