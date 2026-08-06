@@ -18,4 +18,5 @@ I have been fortunate to work with inspiring mentors and collaborators, includin
 Outside of academia, I enjoy probability theory for the elegance it brings to understanding uncertainty. I’m also passionate about sports — especially football and cricket — which I value for the teamwork, strategy, and competitive spirit they foster.
 
 I’m grateful for the opportunities and guidance that have shaped my journey so far, and I’m excited to continue exploring new directions in AI research.  
+
 Thank you for visiting my corner of the web — feel free to connect if you share similar interests!
