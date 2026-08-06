@@ -7,13 +7,13 @@ permalink: /
 
 ### Welcome!
 
-Hello, I’m **Sarvesh Gharat**, a Ph.D. student at the Centre for Machine Intelligence and Data Science (CMInDS), Indian Institute of Technology Bombay (IIT Bombay). I completed my Bachelor’s degree in Electronics and Telecommunication Engineering from VIIT Pune, where I built a strong foundation in engineering and applied mathematics.
+Hello, I’m **Sarvesh Gharat**, a Ph.D. student at the Centre for Machine Intelligence and Data Science (CMInDS), Indian Institute of Technology Bombay (IIT Bombay). I completed my Bachelor’s degree in Electronics and Telecommunication Engineering at VIIT Pune.
 
-My research lies at the intersection of **online learning and generative AI**. In online learning, I focus on **multi-armed bandits and PAC decision-making**, studying how to make reliable decisions under uncertainty. In generative AI, I apply these principles to **large language models (LLMs)** — developing methods to identify the best models for a task and to improve reasoning through efficient prompting and inference-time strategies.
+My research lies at the intersection of **online learning and generative AI**. In online learning, I focus on **multi-armed bandits and PAC decision-making**, studying how to make reliable decisions under uncertainty. In generative AI, I apply these ideas to **large language models (LLMs)**, developing methods for efficient model selection and improved reasoning through adaptive prompting and inference-time strategies.
 
-More recently, I’ve developed a growing interest in **LLM alignment, multi-agent systems, and AI Scientists**. I’m particularly interested in how artificial agents interact, cooperate, and compete in complex environments, and how alignment techniques can make these systems more robust, reliable, and aligned with human goals. I’m also excited by multi-agent systems for scientific discovery, including automated AI research systems that can generate hypotheses, design and run experiments, evaluate results, and iteratively improve AI methods. These directions bridge learning theory, reinforcement learning, scientific discovery, and real-world AI deployment.
+More recently, I have become interested in **LLM alignment, multi-agent systems, and AI Scientists**. I am particularly interested in building reliable agents that can interact and collaborate effectively, as well as systems that can automate parts of the scientific process—from generating hypotheses and designing experiments to evaluating results and iteratively improving AI methods.
 
-I’ve been fortunate to work with inspiring mentors and collaborators, including internships at **Google DeepMind** and **Adobe Research**, which have shaped my perspective on both theoretical and applied AI research.
+I have been fortunate to work with inspiring mentors and collaborators, including through internships at **Google DeepMind** and **Adobe Research**, which have shaped my perspective on both theoretical and applied AI research.
 
 Outside of academia, I enjoy probability theory for the elegance it brings to understanding uncertainty. I’m also passionate about sports — especially football and cricket — which I value for the teamwork, strategy, and competitive spirit they foster.
 
