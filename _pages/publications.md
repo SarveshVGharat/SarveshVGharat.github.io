@@ -34,6 +34,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </div>
 
 <div class="jumbotron">
-### Extended Abstracts
+### Workshop Papers
 {% bibliography --query @abstract %}
 </div>
